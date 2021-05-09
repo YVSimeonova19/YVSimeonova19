@@ -30,7 +30,7 @@
 <details>
   <summary>👾 GitHub Stats</summary>
 
-  <img align="left" alt="YVSimeonova19's GitHub Stats" src="https://github-readme-stats-flame-seven.vercel.app/api?username=YVSimeonova19&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img align="left" alt="YVSimeonova19's GitHub Stats" src="https://github-readme-stats-flame-seven.vercel.app/api?username=YVSimeonova19&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
 
