@@ -34,8 +34,6 @@
 
 </details>
 
-<br />
-
 <details>
   <summary>🎵 Spotify stuff</summary>
 
