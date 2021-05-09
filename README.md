@@ -1,6 +1,6 @@
 ### Hi there, I'm Yoanna - aka [YVSimeonova19][GitHubAcc] 👋
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/YVSimeonova19/YVSimeonova19/master/images/code.gif" />
+<img align="right" height="250" width="375" alt="" src="/images/code.gif" />
 
 - 🔭 &nbsp; I'm a student at @codingburgas
 - 🌱 &nbsp; I’m currently learning everything 🤣
