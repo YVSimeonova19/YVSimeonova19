@@ -32,6 +32,8 @@
 
   <img align="left" alt="YVSimeonova19's GitHub Stats" src="https://github-readme-stats-flame-seven.vercel.app/api?username=YVSimeonova19&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
+  [![Top Langs](https://github-readme-stats-flame-seven.vercel.app/api/top-langs/?username=YVSimeonova19&layout=compact)]
+
 </details>
 
 <details>
