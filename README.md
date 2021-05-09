@@ -5,7 +5,7 @@
 - 🔭 &nbsp; I'm a student at @codingburgas
 - 🌱 &nbsp; I’m currently learning everything 🤣
 - ⚡ &nbsp; Fun fact: The first programmer in the world was a woman 👩‍💻
-- 📫 &nbsp; You can contact me via [email][EmailAddress]
+- 📫 &nbsp; You can contact me here: YVSimeonova19@codingburgas.bg
 
 
 ### Languages and Tools:
@@ -42,4 +42,3 @@
 </details>
 
 [GitHubAcc]: https://github.com/YVSimeonova19
-[EmailAddress]: YVSimeonova19@codingburgas.bg
