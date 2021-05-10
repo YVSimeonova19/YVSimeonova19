@@ -40,6 +40,7 @@
   <summary>🎵 Spotify stuff</summary>
 
   [![Spotify](https://novatorem-yvsimeonova19.vercel.app/api/spotify)](https://open.spotify.com/user/ncelqhm63037ci7tvzfl0u1v6)
+  <img align="center" height="150" alt="" src="/images/spotify.png" />
 
 </details>
 
