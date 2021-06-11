@@ -3,7 +3,7 @@
 <img align="right" height="250" alt="laptop gif" src="/images/code.gif" />
 
 - 🔭 &nbsp; I'm a student at @codingburgas
-- 🌱 &nbsp; I’m currently learning everything 🤣
+- 🌱 &nbsp; I’m currently learning a lot of stuff 🐱‍👤
 - ⚡ &nbsp; Fun fact: The first programmer in the world was a woman 👩‍💻
 - 📫 &nbsp; You can contact me here: YVSimeonova19@codingburgas.bg
 
