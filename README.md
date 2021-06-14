@@ -32,9 +32,9 @@
 <details>
   <summary>👾 GitHub Stats</summary>
 
-  <img align="left" width="480" alt="YVSimeonova19's GitHub Stats" src="https://github-readme-stats-flame-seven.vercel.app/api?username=YVSimeonova19&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" height="192" alt="YVSimeonova19's GitHub Stats" src="https://github-readme-stats-flame-seven.vercel.app/api?username=YVSimeonova19&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
 
-  <img align="right" width="320" alt="noface gif" src="/images/spain.gif" />
+  <img align="right" height="192" alt="noface gif" src="/images/spain.gif" />
 
   <!-- ![](https://komarev.com/ghpvc/?username=YVSimeonova19&color=9055e3) -->
 
