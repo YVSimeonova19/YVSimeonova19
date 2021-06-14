@@ -1,6 +1,6 @@
 ### Hi there, I'm Yoanna - aka [YVSimeonova19][GitHubAcc] 👋
 
-<img align="right" height="250" alt="laptop gif" src="/images/code.gif" />
+<img align="right" width="340" alt="computer gif" src="/images/computer.gif" />
 
 - 🔭 &nbsp; I'm a student at @codingburgas
 - 🌱 &nbsp; I’m currently learning a lot of stuff 🐱‍👤
@@ -33,6 +33,8 @@
   <summary>👾 GitHub Stats</summary>
 
   <img align="left" alt="YVSimeonova19's GitHub Stats" src="https://github-readme-stats-flame-seven.vercel.app/api?username=YVSimeonova19&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+
+  <img align="right" width="340" alt="noface gif" src="/images/spain.gif" />
 
   <!-- ![](https://komarev.com/ghpvc/?username=YVSimeonova19&color=9055e3) -->
 
