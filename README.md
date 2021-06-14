@@ -22,6 +22,8 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
+<img align="left" alt="VSCode" width="26px" src="images/vscode.png" />
+
 <img align="left" alt="VisualStudio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 
 <br />
