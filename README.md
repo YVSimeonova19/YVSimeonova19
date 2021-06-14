@@ -38,18 +38,6 @@
 
   <img align="right" height="192" alt="noface gif" src="/images/spain.gif" />
 
-  <!-- ![](https://komarev.com/ghpvc/?username=YVSimeonova19&color=9055e3) -->
-
 </details>
-
-<!--
-<details>
-  <summary>🎵 Spotify stuff</summary>
--
-  [![Spotify](https://novatorem-yvsimeonova19.vercel.app/api/spotify)](https://open.spotify.com/user/ncelqhm63037ci7tvzfl0u1v6)
-  <img align="center" height="150" alt="" src="/images/spotify.png" />
--
-</details>
--->
 
 [GitHubAcc]: https://github.com/YVSimeonova19
