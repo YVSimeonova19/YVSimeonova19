@@ -40,6 +40,8 @@
 
   <img align="right" height="192" alt="noface gif" src="/images/spain.gif" />
 
+  <img align="left" height="192" alt="https://github-readme-stats-flame-seven.vercel.app/api/top-langs/?username=YVSimeonova19&hide_border=true&theme=tokyonight&layout=compact" />
+
 </details>
 
 [GitHubAcc]: https://github.com/YVSimeonova19
