@@ -45,4 +45,4 @@
 
 [GitHubAcc]: https://github.com/YVSimeonova19
 [School]: https://github.com/codingburgas
-[LinkedInAcc]: www.linkedin.com/in/yvsimeonova19
+[LinkedInAcc]: https://linkedin.com/in/yvsimeonova19
