@@ -6,6 +6,7 @@
 - 🌱 &nbsp; I got crippling depression 🐱‍👤
 - ⚡ &nbsp; Fun fact: The first programmer in the world was a woman 👩‍💻
 - 📫 &nbsp; You can contact me here: YVSimeonova19@codingburgas.bg
+- 🔮 &nbsp; LinkedIn: [Yoanna Simeonova][LinkedInAcc]
 
 
 ### Languages and Tools:
@@ -39,9 +40,9 @@
   <img align="left" height="192" alt="YVSimeonova19's GitHub Stats" src="https://github-readme-stats-flame-seven.vercel.app/api?username=YVSimeonova19&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
   
   ![Visitor Count](https://profile-counter.glitch.me/YVSimeonova19/count.svg)
-  <p>secret?¿</p>
 
 </details>
 
 [GitHubAcc]: https://github.com/YVSimeonova19
 [School]: https://github.com/codingburgas
+[LinkedInAcc]: www.linkedin.com/in/yvsimeonova19
