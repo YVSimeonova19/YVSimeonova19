@@ -44,11 +44,9 @@
 </details>
 
 <details>
-  <summary>Life.</summary>
-  
-  <p>&nbsp;</p>
+  <summary></summary>
 
-  <img align="center" height="200" alt="shinji vuv firmata" src="" />
+  <img align="center" height="200" alt="shinji vuv firmata" src="/images/pgkpi_life_shinji.jpg" />
   
 </details>
 
