@@ -43,6 +43,15 @@
 
 </details>
 
+<details>
+  <summary>Life.</summary>
+  
+  <p>&nbsp;</p>
+
+  <img align="center" height="200" alt="shinji vuv firmata" src="" />
+  
+</details>
+
 [GitHubAcc]: https://github.com/YVSimeonova19
 [School]: https://github.com/codingburgas
 [LinkedInAcc]: https://linkedin.com/in/yvsimeonova19
