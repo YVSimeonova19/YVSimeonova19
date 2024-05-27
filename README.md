@@ -40,21 +40,7 @@
   <p>&nbsp;</p>
 
   <img align="left" height="192" alt="YVSimeonova19's GitHub Stats" src="https://github-readme-stats-flame-seven.vercel.app/api?username=YVSimeonova19&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-  
-  ![Visitor Count](https://profile-counter.glitch.me/YVSimeonova19/count.svg)
 
-</details>
-
-<details>
-  <summary></summary>
-
-  <img align="center" height="200" alt="shinji vuv firmata" src="/images/pgkpi_life_shinji.jpg" />
-  <img align="center" height="200" alt="shinji vuv firmata" src="/images/obshtak_life_with_shinji.jpg" />
-  
-  <br />
-  
-  credits: [TNOpanska19](https://github.com/TNOpanska19)
-  
 </details>
 
 [GitHubAcc]: https://github.com/YVSimeonova19
