@@ -29,20 +29,6 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
-<br />
-<br />
-
----
-
-<details>
-  <summary>👾 GitHub Stats</summary>
-
-  <p>&nbsp;</p>
-
-  <img align="left" height="192" alt="YVSimeonova19's GitHub Stats" src="https://github-readme-stats-flame-seven.vercel.app/api?username=YVSimeonova19&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
-
-</details>
-
 [GitHubAcc]: https://github.com/YVSimeonova19
 [School]: https://github.com/codingburgas
 [LinkedInAcc]: https://linkedin.com/in/yvsimeonova19
