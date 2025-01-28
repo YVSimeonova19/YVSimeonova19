@@ -31,4 +31,4 @@
 
 [GitHubAcc]: https://github.com/YVSimeonova19
 [School]: https://github.com/codingburgas
-[LinkedInAcc]: https://linkedin.com/in/yvsimeonova19
+[LinkedInAcc]: https://www.linkedin.com/in/yvsimeonova
