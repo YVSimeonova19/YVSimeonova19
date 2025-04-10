@@ -5,7 +5,7 @@
 - 🔭 &nbsp; Student at [@codingburgas][School]
 - 🌱 &nbsp; I'm trying my best out here
 - ⚡ &nbsp; Fun fact: The first programmer in the world was a woman 👩‍💻
-- 📫 &nbsp; You can contact me here: YVSimeonova19@codingburgas.bg
+- 📫 &nbsp; You can contact me here: yoanna.vladsimeonova@gmail.com
 - 🔮 &nbsp; LinkedIn: [Yoanna Simeonova][LinkedInAcc]
 
 
